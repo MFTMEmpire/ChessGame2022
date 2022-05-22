@@ -1,0 +1,9 @@
+RNBQKBNR
+PP____PP
+________
+__PPPP__
+__pp_p__
+________
+pp__p_pp
+rnbqkbnr
+w

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-beanutils-1.9.4-test-sources">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/ChessDemo/lib/commons-beanutils-1.9.4-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Chess">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="Chess.jar">
+      <element id="module-output" name="ChessDemo" />
+      <element id="file-copy" path="$PROJECT_DIR$/ChessDemo/lib/commons-beanutils-1.9.4/commons-beanutils-1.9.4.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/ChessDemo/lib/commons-beanutils-1.9.4/commons-beanutils-1.9.4-tests.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/ChessDemo/lib/commons-beanutils-1.9.4/commons-beanutils-1.9.4-javadoc.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/ChessDemo/lib/commons-beanutils-1.9.4/commons-beanutils-1.9.4-sources.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/ChessDemo/lib/commons-beanutils-1.9.4/commons-beanutils-1.9.4-test-sources.jar" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
