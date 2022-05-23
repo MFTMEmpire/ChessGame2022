@@ -273,9 +273,10 @@ public class ChessGameFrame extends JFrame {
 
                 chessboard.changeSizeWithWindow(width, height, chessboardSize);
                 turnLabel.setLocation(getHeight(), getHeight()/10);
-                loadButton.setLocation(getHeight(), getHeight() / 10 + 2*getHeight()/760*120);
-                restartButton.setLocation(getHeight(), getHeight()/10 + 3*getHeight()/760*120);
-                saveButton.setLocation(getHeight(), getHeight()/10 + 4*getHeight()/760*120);
+                loadButton.setLocation(getHeight(), getHeight() / 10 + 3*getHeight()/760*120);
+                restartButton.setLocation(getHeight(), getHeight()/10 + 4*getHeight()/760*120);
+                saveButton.setLocation(getHeight(), getHeight()/10 + 5*getHeight()/760*120);
+                undoButton.setLocation(getHeight(), getHeight()/10 + 2*getHeight()/760*120);
 
                 //将lable放在 窗口左边的1/3处
 //                label.setBounds(3*width/4, height/5, 61, 16);//(起始点x，起始点y，宽地w，高h)  标签设置宽高不明显
