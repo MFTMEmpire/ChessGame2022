@@ -36,7 +36,8 @@ public class Main {
             welcomeFrame.setVisible(true);
             welcomeFrame.setAlwaysOnTop(true);
 
-            JButton button = new JButton("Play the game!");
+            JButton button = new JButton("Play Chess!");
+            button.setFont(new Font("Rockwell", Font.BOLD, 60));
             welcomeFrame.add(button);
             button.setSize(1000,760);
 
